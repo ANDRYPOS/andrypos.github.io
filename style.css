@@ -41,7 +41,8 @@ body {
   /* Customize container */
   @media (min-width: 1080px) {
     .container {
-      max-width: 730px;
+      width: 1000px;
+      min-height: 200px;
       display: flexbox;
       position: absolute;
     }
