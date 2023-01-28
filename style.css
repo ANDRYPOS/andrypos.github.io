@@ -61,10 +61,6 @@ body {
 		width: auto;
 		float: none;
 	}
-  img {
-    width:550px;
-    max-width:100%
- }
 }
 
   .container-narrow > hr {
