@@ -52,7 +52,7 @@ body {
   /* Jika ukuran layar 680px atau kurang dari itu */
 
 @media screen and (max-width:680px){
-
+  
 	#maincontent{
 		width: auto;
 		float: none;
@@ -62,6 +62,7 @@ body {
 		float: none;
 	}
 }
+
   .container-narrow > hr {
     margin: 30px 0;
     position: absolute;
